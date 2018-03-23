@@ -9,7 +9,6 @@
                             </div>
                         </div>
                    	</div>
-                    </div>  
 <div class="container"><!-- Container -->
               <h2 class="border-title aligncenter">
                    Salon Evolution 
@@ -97,4 +96,4 @@
                         
 
             </div><!-- End of Container -->
-            
+             	</div> 				
