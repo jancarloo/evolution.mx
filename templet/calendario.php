@@ -901,30 +901,27 @@
                         <div class="dt-sc-ico-content type4 anchor">
                             <div class="icon">   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/postcolor.fw.png" alt="" title="">
-                                <h4> post color</h4>            
+                                <h4> illuminating shine lotioon</h4>            
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> post color  </a>
                             </h4>
-                            <br>
-                             <br> 
-                              <br>
-                               <br>
                             <p>shampoo ideal para cabello teñido.Ayuda a prevenir la pérdida prematura del color sellando la cuticula con un pH de 4.5 </p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 magic">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy due faccetta lunga durata.fw.png" alt="" title="">
-                                <h4>  due faccetta lunga durata </h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/product-img1.png" alt="" title="">
+                                <h4> illuminating shampoo </h4>            
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> Due faccetta lunga durata </a>
+                                <a target="_blank" href="#"> illuminating shampoo  </a>
                             </h4>
                             <p>
                             <br>
-                            Tratamiento nutritivo instantáneo diseñado para proteger y fijar el color.Se deja puesto.Formulado para sellar la cutícula optimizando el brillo y evitando la pérdida prematura del color en el cabello.                         
+                            una ligera caricia de luz para los cabellos. Fibra capilar suave y revitaliza que resplende al instante, con un efecto duradero.
+                                $ 215                           
                                 <br>
                                 </p>
                         </div>
@@ -933,37 +930,39 @@
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 desktop">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/shampoo balsami presto tec italy.fw.png" alt="" title=""> 
-                                <h4> shampoo balsami presto  </h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/product-img2.png" alt="" title=""> 
+                                <h4> ILLUMUNATING MASK  </h4>            
                             </div>
                             <h4>
-                                <a target="_blank" href="#">  shampoo balsami presto   </a>
+                                <a target="_blank" href="#">  ILLUMUNATING MASK  </a>
                             </h4>
-                            <p>Shampoo para cabellos frágiles, dañados por agreciones ambientales, tratamientos químicos, procesos de estilizado, contaminación y elpaso del tiempo.Restaura la fortaleza y vitalidad del cabello desde su interior, eliminando el riesgo de cabelloo quebradizo, previniendo las puntas abiertas y facilitando el desenredo.</p>
+                            <p>Revitaliza intensamente la fribra capilar para unos cabellos suaves y fluidos, que difunden una luminosidad intensa y vibrante.
+                            $320</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 trophy">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/balsami presto tec italy.fw.png" alt="" title="">
-                                <h4> balsami presto </h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/product-img3.png" alt="" title="">
+                                <h4> EXTRAORDINARY ALL-IN-1 FLUID</h4>            
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> balsami presto </a>
+                                <a target="_blank" href="#"> EXTRAORDINARY ALL-IN-1 FLUID </a>
                             </h4>
-                                <p>Tratamiento revitalizante intensivo que se deja puesto. Proporciona desenredo, volumen y humectación. Ideal para cabellos químicamnete procesados. Bálsamo protector de la hebra capilar. Combina elementos proteínicos y botánicos. Además protege el cabello de los dañinos efectos del sol y del mendio ambiente. </p>
+                            <p>Protege el color cosmético, desenreda los cabellos, protege contra los rayos UVA y UVB, previne la formación de puntas abiertas, controla el peinado, combate el efecto de la humedad, sella las cutículas.
+                            $280</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 plane">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy lumina shampoo.fw.png" alt="" title="">
-                                <h4> lumina shampoo</h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/product-img4.png" alt="" title="">
+                                <h4> CRISTALLI LIQUIDI</h4>            
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> lumina shampoo </a>
+                                <a target="_blank" href="#"> CRISTALLI LIQUIDI </a>
                             </h4>
-                            <p>Formulado en tono azul-violeta. Matiza y ayuda a reavivar el tono del cabello decolorado o naturalmente rubio, cuando éste ha adquirido cierto reflrejo verdoso, cobrizo u opaco. Matiza las canas, neutralizando los tonos amarillentos. Suaviza, abrillanta y ayuda a fortalecer a tu cabello, ya que está enriquecido por complejos proteínicos y botánicos. </p>
+                            <p>Tale detraxit accusata et mel, ex nobis fabulas vituperata est mel quodsi labitur graecis eu. Curabitur sed purus fringilla laoreet. Donec fermentum eget nisl non porta. In consequat commodo lorem eu posuere.$350</p>
                         </div>
                     </div>
                     
@@ -974,38 +973,43 @@
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 cog">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy lumina conditioner.fw.png" alt="" title="">
-                                <h4>lumina conditioner</h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/nutrive shampoo.jpg" alt="" title="">
+                                <h4>NUTRITIVE SHAMPOO</h4>            
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> lumina conditioner</a>
+                                <a target="_blank" href="#"> NUTRITIVE SHAMPOO</a>
                             </h4>
-                            <p>Acondicionador matizador para cabello rubio ó blanco. Complemento ideal de LIMINA SHAMPOO. Matiza y reaviva el tono del cabello decolorado o naturalmete rubio, cuando éste ha adquirido  cierto reflejo verdoso, cobrizo u opaco. Matiza las canas y da brillo , neutralizando los tonos amarillentos. </p>
+                            <p>Limpieza y nutricion sinb apelmezar, para una suavidad y una sedosidad caracteristica de los cabello sanos.
+                            $215</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 anchor">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy lumina forza colore.fw.png" alt="" title="">
-                                <h4>  lumina forza colore </h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/nutrivemask.jpg" alt="" title="">
+                                <h4> NUTRITIVE MASK </h4>            
                             </div>
                             <h4>
-                                <a target="_blank" href="#">  lumina forza colore </a>
+                                <a target="_blank" href="#"> NUTRITIVE MASK  </a>
                             </h4>
-                            <p>Tratamiento revitalizante e intensidificador de color para el cabello. Prolonga la duracion del color en cabello teñido durante más tiempo. Ideal para cabellos maltratados y resecos. Sus finos ingredintes  depositan acondicionadores y pigmentos en tu cabello, otorgándo brillo, sedosidad y manejabilidad.</p>
+                            <p>Mejora al instante la calidad de los cabellos, que se vuelven más suaves y facial de desenredar, superando la prueba del peine.</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 magic">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy silk system shine.fw.png" alt="" title="">
-                                <h4>silk system shine </h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/nutritive leave in conditioner.JPG" alt="" title="">
+                                <h4>NUTRITIVE LEAVE-IN CONDITIONER </h4>            
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> silk system shine </a>
+                                <a target="_blank" href="#"> NUTRITIVE LEAVE-IN CONDITIONER </a>
                             </h4>
                             <p>
-                            <br>Innovador tratamiento que proporcona extraordinario brillo instantáneo. Ayuda a revitalizar las puntas y la cutícula del cabello, además de protegerlo de los rayos del sol .Gracias a su pontente filtro UV es el toque final perfecto para el proceso de estilizado, ya que contiene proteína de seda que otorga gran brillo, desenredo y reacondicionamiento. <br>
+                            <br>
+                            Siaviza con delicadeza la fibre capilar y aumenta la fkexibilidad de los cabellos.
+                            SIN ENJUAGUE.
+                            $260
+                                <br>
                                 </p>
                         </div>
                     </div>

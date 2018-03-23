@@ -23,77 +23,7 @@
                         
                     </div>
                 </div>
-               <div class="portfolio dt-sc-one-fourth column no-space all-sorte">
-                            <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/diploma1.fw.png" alt="portfolio2" title="">
-                                <figcaption>
-                                    <div class="fig-content">
-                                        <ul>
-                                          <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
-                    </ul>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                        </div>
-
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sorte">
-                            <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/diploma2.fw.png" alt="portfolio2" title="">
-                                <figcaption>
-                                    <div class="fig-content">
-                                        <ul>
-                                          <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
-                    </ul>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                        </div>
-
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sorte">
-                            <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/diploma3.fw.png" alt="portfolio2" title="">
-                                <figcaption>
-                                    <div class="fig-content">
-                                        <ul>
-                                          <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
-                    </ul>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                        </div>
-
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sorte">
-                            <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/diploma4.fw.png" alt="portfolio2" title="">
-                                <figcaption>
-                                    <div class="fig-content">
-                                        <ul>
-                                          <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
-                    </ul>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                        </div>
-
-
-                 <div class="portfolio dt-sc-one-fourth column no-space all-sorte">
-                            <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/diploma5.fw.png" alt="portfolio2" title="">
-                                <figcaption>
-                                    <div class="fig-content">
-                                        <ul>
-                                          <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
-                    </ul>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                        </div>
-                        
-
+               
+               
             </div><!-- End of Container -->
              	</div> 				
